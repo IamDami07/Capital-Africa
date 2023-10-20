@@ -147,10 +147,19 @@ img[src*="header2under"]{
     align-items: center;
     gap: 1rem;
     justify-content: space-between;
-    padding-block: 1rem;
+    padding-block: 1rem 4rem;
     max-width: 1440px;
     margin: auto;
     
+}
+.paragraphs button{
+    display: flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    background: #2B4625;
+    border-radius: 100px;
 }
 .paragraphs{
     max-width: 544px;

@@ -155,6 +155,7 @@ img[src*="header2under"]{
 .paragraphs{
     max-width: 620px;
 }
+
 .paragraphs p{
     margin-block: 1rem;
 }
