@@ -212,7 +212,6 @@ img[src*="header2under"]{
     text-align: center;
 }
 .third-container > img[src*="header2under"]{
-    /* position: absolute; */
     margin-left: 6rem;
 }
 .clients{
